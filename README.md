@@ -13,7 +13,7 @@ These are react depdendencies. Other react depdendencies required apart from thi
 - @types/react-dom
 
 ### Babel
-Babel converts react tsx to javascript. Following dependencies are required as part of this:
+Babel converts react tsx to javascript. Following dependencies required are:
 - @babel/core
 - @babel/preset-env
 - @babel/preset-react
