@@ -1,5 +1,5 @@
 # React Typescript Boilerplate
-This project demonstrates the minimum number of packages required to transpile and run a react typescript project.
+This project demonstrates the minimum number of packages required to start up a basic react project.
 
 ## Major components
 - React & react-dom
